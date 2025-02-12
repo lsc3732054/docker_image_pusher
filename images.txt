@@ -7,3 +7,6 @@ jitsi/web:unstable
 jitsi/prosody:unstable
 jitsi/jicofo:unstable
 jitsi/jvb:unstable
+jitsi/jibri:unstable
+grafana/loki:3.0.0
+grafana/grafana:10.2.0
