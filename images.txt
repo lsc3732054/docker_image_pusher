@@ -12,3 +12,11 @@ grafana/loki:3.0.0
 grafana/grafana:10.2.0
 otel/opentelemetry-collector-contrib
 enmotech/opengauss:5.0.3
+mysql:8.0.30
+redis:7.0.4
+elasticsearch:7.17.19
+docker.elastic.co/kibana/kibana:7.17.19
+logstash:7.17.19
+apache/rocketmq:4.9.6
+apacherocketmq/rocketmq-dashboard:1.0.0
+xuxueli/xxl-job-admin:2.3.0
